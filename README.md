@@ -1,1 +1,1 @@
-# Abby Garrett
+# Software Training for Data Science
